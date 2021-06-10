@@ -38,7 +38,7 @@
     "enzyme-adapter-react-16": "1.15.5",
     "jest": "26.6.2",
     "react": "16.14.0",
-    "react-dom": "16.13.0",
+    "react-dom": "16.14.0",
     "vue": "2.6.12",
     "vue-server-renderer": "2.6.12",
     "vue-template-compiler": "2.6.12"
